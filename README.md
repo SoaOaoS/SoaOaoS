@@ -1,28 +1,27 @@
-<!-- @SoaOaoS | Toulouse, France -->
-
 <div align="center">
 
-<!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f78166&height=220&section=header&text=SoaOaoS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Infra%20%2F%20DevOps&descSize=22&descColor=c9d1d9&descAlignY=58" width="100%"/>
 
 </div>
 
 <br>
 
-<!-- Intro -->
 <div align="center">
 
 👋 Hey, je suis **SoaOaoS** — développeur passionné par le **backend**, le **DevOps** et les **infrastructures**.
-Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https://github.com/orange-opensource)**.
+Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https://github.com/orange-opensource)**
 
 </div>
 
 <br>
 
-<!-- Tech stack badges -->
 <div align="center">
 
 **Stack & Outils**
+
+</div>
+
+<div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -45,65 +44,26 @@ Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https:/
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎧 Something-X</h3>
-      <p align="center"><em>App Nothing X pour Linux</em></p>
-      <p align="center">Recreation du client Nothing X pour Linux, écrite en Python. Testée sur Omarchy.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/something-x">🔗 Voir le projet</a> ·
-        ⭐ 11 stars
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ Flux</h3>
-      <p align="center"><em>Load Balancer maison en Go</em></p>
-      <p align="center">Un load balancer développé de zéro en Go pour comprendre et implémenter le routing de trafic.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/Flux">🔗 Voir le projet</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ StateWatch</h3>
-      <p align="center"><em>Dashboard Terraform / MinIO</em></p>
-      <p align="center">Dashboard web moderne pour visualiser et gérer les states Terraform stockés dans MinIO.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/StateWatch">🔗 Voir le projet</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🦆 Ducky</h3>
-      <p align="center"><em>SSH Canary en Go</em></p>
-      <p align="center">SSH Canary écrit en Go : recréation d'un outil existant avec de nouvelles fonctionnalités.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/ducky">🔗 Voir le projet</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📡 EMASTACK</h3>
-      <p align="center"><em>Full-stack platform</em></p>
-      <p align="center">Plateforme complète avec front (TypeScript), back (Node), admin panel et landing page.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/emastack-front">Front</a> ·
-        <a href="https://github.com/SoaOaoS/emastack-back">Back</a> ·
-        <a href="https://github.com/SoaOaoS/emastack-admin">Admin</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 Secure Bernetes</h3>
-      <p align="center"><em>Sécurité Kubernetes</em></p>
-      <p align="center">Projet Go autour de la sécurité des clusters Kubernetes.</p>
-      <p align="center">
-        <a href="https://github.com/SoaOaoS/secure-bernetes">🔗 Voir le projet</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🎧 [Something-X](https://github.com/SoaOaoS/something-x) · ⭐ 11
+Recreation du client Nothing X pour Linux, écrite en Python. Testée sur Omarchy.
+
+### ⚖️ [Flux](https://github.com/SoaOaoS/Flux)
+Load balancer développé de zéro en Go pour comprendre et implémenter le routing de trafic.
+
+### 🖥️ [StateWatch](https://github.com/SoaOaoS/StateWatch)
+Dashboard web moderne pour visualiser et gérer les states Terraform stockés dans MinIO.
+
+### 🦆 [Ducky](https://github.com/SoaOaoS/ducky)
+SSH Canary écrit en Go : recréation d'un outil existant avec de nouvelles fonctionnalités.
+
+### 📡 [EMASTACK](https://github.com/SoaOaoS/emastack-front)
+Plateforme full-stack : front (TypeScript), back (Node), admin panel et landing page.
+
+### 🔐 [Secure Bernetes](https://github.com/SoaOaoS/secure-bernetes)
+Projet Go autour de la sécurité des clusters Kubernetes.
+
+### 📡 [ifshow](https://github.com/SoaOaoS/ifshow) / [ifnetshow](https://github.com/SoaOaoS/ifnetshow)
+CLI tools en C pour lister et détailler les interfaces réseau (locales et distantes).
 
 <br>
 
@@ -128,21 +88,15 @@ Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https:/
 
 <div align="center">
 
-<!-- Connect badges -->
-<a href="https://github.com/SoaOaoS?tab=followers">
-  <img src="https://img.shields.io/github/followers/SoaOaoS?label=Followers&style=flat-square&color=f78166"/>
-</a>
-<a href="https://github.com/SoaOaoS?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-Public%20%26%20Private-f78166?style=flat-square"/>
-</a>
+<a href="https://github.com/SoaOaoS?tab=followers"><img src="https://img.shields.io/github/followers/SoaOaoS?label=Followers&style=flat-square&color=f78166"/></a>
+<img src="https://komarev.com/ghpvc/?username=SoaOaoS&color=f78166&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoaOaoS&color=f78166&style=flat-square&label=Profile+views" alt="Profile views"/>
-</div>
 
-<!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f78166&height=120&section=footer" width="100%"/>
+
+</div>
