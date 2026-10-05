@@ -8,8 +8,8 @@
 
 <div align="center">
 
-👋 Hey, je suis **SoaOaoS** — développeur passionné par le **backend**, le **DevOps** et les **infrastructures**.
-Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https://github.com/orange-opensource)**
+👋 Hey, I'm **SoaOaoS** — a developer passionate about **backend**, **DevOps** and **infrastructure**.
+Based in **Toulouse, France** · working at **[@orange-opensource](https://github.com/orange-opensource)**
 
 </div>
 
@@ -17,7 +17,7 @@ Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https:/
 
 <div align="center">
 
-**Stack & Outils**
+**Stack & Tools**
 
 </div>
 
@@ -45,28 +45,37 @@ Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https:/
 ## Projects
 
 ### 🎧 [Something-X](https://github.com/SoaOaoS/something-x) · ⭐ 11
-Recreation du client Nothing X pour Linux, écrite en Python. Testée sur Omarchy.
+
+A remake of the Nothing X client for Linux, written in Python. Tested on Omarchy.
 
 ### 🤖 [Mav](https://github.com/SoaOaoS/mav)
-Assistant IA personnel, proactif et privé : chat, routines autonomes, mémoire et notifications — il tourne sur ta machine, avec ton modèle. Python.
+
+Personal AI assistant — proactive and private: chat, autonomous routines, memory
+and notifications. It runs on your machine, with your model. Python.
 
 ### ⚖️ [Flux](https://github.com/SoaOaoS/Flux)
-Load balancer développé de zéro en Go pour comprendre et implémenter le routing de trafic.
+
+A load balancer built from scratch in Go to understand and implement traffic routing.
 
 ### 🖥️ [StateWatch](https://github.com/SoaOaoS/StateWatch)
-Dashboard web moderne pour visualiser et gérer les states Terraform stockés dans MinIO.
+
+A modern web dashboard to view and manage Terraform states stored in MinIO.
 
 ### 🦆 [Ducky](https://github.com/SoaOaoS/ducky)
-SSH Canary écrit en Go : recréation d'un outil existant avec de nouvelles fonctionnalités.
+
+An SSH canary written in Go: recreating an existing tool with new features.
 
 ### 📡 [EMASTACK](https://github.com/SoaOaoS/emastack-front)
-Plateforme full-stack : front (TypeScript), back (Node), admin panel et landing page.
+
+Full-stack platform: front end (TypeScript), back end (Node), admin panel and landing page.
 
 ### 🔐 [Secure Bernetes](https://github.com/SoaOaoS/secure-bernetes)
-Projet Go autour de la sécurité des clusters Kubernetes.
+
+A Go project around Kubernetes cluster security.
 
 ### 📡 [ifshow](https://github.com/SoaOaoS/ifshow) / [ifnetshow](https://github.com/SoaOaoS/ifnetshow)
-CLI tools en C pour lister et détailler les interfaces réseau (locales et distantes).
+
+C CLI tools to list and detail network interfaces (local and remote).
 
 <br>
 
