@@ -47,6 +47,9 @@ Basé à **Toulouse, France** · travaillant chez **[@orange-opensource](https:/
 ### 🎧 [Something-X](https://github.com/SoaOaoS/something-x) · ⭐ 11
 Recreation du client Nothing X pour Linux, écrite en Python. Testée sur Omarchy.
 
+### 🤖 [Mav](https://github.com/SoaOaoS/mav)
+Assistant IA personnel, proactif et privé : chat, routines autonomes, mémoire et notifications — il tourne sur ta machine, avec ton modèle. Python.
+
 ### ⚖️ [Flux](https://github.com/SoaOaoS/Flux)
 Load balancer développé de zéro en Go pour comprendre et implémenter le routing de trafic.
 
